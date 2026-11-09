@@ -1,4 +1,4 @@
-# MiniCheck 1.0.0
+# MiniCheck 1.1.0
 
 Kleines Testprogramm für den Installations-, Update- und Deinstallationsablauf in Masterskilla. Die Linux-x86-64-Datei nutzt glibc. Ein Aufruf mit `--version` zeigt die installierte Version.
 

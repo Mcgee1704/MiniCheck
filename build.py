@@ -10,7 +10,7 @@ import tempfile
 from pathlib import Path
 
 SOURCE = Path(__file__).with_name("minicheck.c")
-VERSIONS = ("1.0.0",)
+VERSIONS = ("1.1.0",)
 
 
 def build(destination):
